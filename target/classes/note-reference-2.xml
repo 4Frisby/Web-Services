@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<note2
-xmlns:example2="target2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="https://www.w3schools.com/xml/note.xsd">
-  <example2:to>hello</example2:to>
-  <example2:from>Jani</example2:from>
-</note2>
