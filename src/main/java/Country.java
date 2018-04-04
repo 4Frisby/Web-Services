@@ -10,7 +10,7 @@ import javax.xml.bind.annotation.XmlType;
 @XmlRootElement
 //You can define order in which elements will be created in XML file
 //Optional
-@XmlType(propOrder = { "countryName', 'countryPopulation', 'listOfStates"})
+//@XmlType(propOrder = { "countryName', 'countryPopulation', 'listOfStates"})
 public class Country {
 
 private String countryName;
